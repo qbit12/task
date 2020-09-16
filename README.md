@@ -2,6 +2,9 @@ The task of QOSF is to find the lowest eigenvalue of a given matrix by creating 
 
 Resources used
 https://www.mustythoughts.com/variational-quantum-eigensolver-explained
+
 https://github.com/DavitKhach/quantum-algorithms-tutorials/blob/master/variational_quantum_eigensolver.ipynb
+
 https://nbviewer.jupyter.org/github/alexander-soare/A-Framework-Agnostic-VQE-Tutorial/blob/master/02_Tutorial.ipynb
+
 https://michaelgoerz.net/notes/decomposing-two-qubit-hamiltonians-into-pauli-matrices.html
